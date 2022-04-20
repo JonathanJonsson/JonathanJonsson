@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi there!
+
+### My name is Jonathan and I am a Game programming student at Forsbergs.
+#### I've studied ✔️:
+* C# with Unity  
+* Basics and intermidiate
+* Algorithms and datastructures
+* Mobile development
+
+### I'm currently studying 📘:
+* Network programming
+
+### I'm going to study 🕐:
+* C++ with UnrealEngine
+
+
 
 <!--
 **JonathanJonsson/JonathanJonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
