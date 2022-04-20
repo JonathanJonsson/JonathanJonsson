@@ -14,8 +14,9 @@
 * C++ with UnrealEngine
 
 ### Fun fact about me ⚡:
-* I have masters degree in chemical engineering
+* I have masters degree in chemical engineering. In my spare time I am with my family, play games (of course) and brew beer.
 
+### Do not hesitate to get in contact with me!
 
 <!--
 **JonathanJonsson/JonathanJonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
