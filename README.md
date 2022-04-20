@@ -3,7 +3,7 @@
 ### My name is Jonathan and I am a Game programming student at Forsbergs.
 #### I've studied ✅:
 * C# with Unity  
-* Basics and intermidiate
+&nbsp;&nbsp;&nbsp;&nbsp;* Basics and intermidiate
 * Algorithms and datastructures
 * Mobile development
 
