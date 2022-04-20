@@ -1,6 +1,8 @@
 ## Hi there!
 
-### My name is Jonathan and I am a Game programming student at Forsbergs.
+### My name is Jonathan and I am a Game Programming student (2022) at Forsbergs.
+### It would be really cool if you checked out my portfolio//LINKHERE//!
+
 #### I've studied ✅:
 * C# with Unity  
 &nbsp;&nbsp;&nbsp;&nbsp;* Basics and intermidiate
@@ -17,6 +19,7 @@
 * I have masters degree in chemical engineering. In my spare time I am with my family, play games (of course) and brew beer.
 
 ### Do not hesitate to get in contact with me!
+////CONTACTDETAILS GOES HERE
 
 <!--
 **JonathanJonsson/JonathanJonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
