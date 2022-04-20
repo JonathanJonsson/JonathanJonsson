@@ -13,6 +13,8 @@
 ### I'm going to study 🕐:
 * C++ with UnrealEngine
 
+### Fun fact about me ⚡:
+* I have masters degree in chemical engineering
 
 
 <!--
