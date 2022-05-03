@@ -3,7 +3,7 @@
 ### My name is Jonathan and I am a Game Programming student (2022) at Forsbergs.
 ### It would be really cool if you checked out my portfolio//LINKHERE//!
 
-#### I've studied ✅:
+### I've studied ✅:
 * C# with Unity  
 &nbsp;&nbsp;&nbsp;&nbsp;* Basics and intermidiate
 * Algorithms and datastructures
@@ -16,8 +16,11 @@
 ### I'm going to study 🕐:
 * C++ with UnrealEngine
 
+### Relevant work experience
+I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 15 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
+
 ### Fun fact about me ⚡:
-* I have masters degree in chemical engineering. In my spare time I am with my family, play games (of course) and brew beer.
+* In my spare time I am with my family, play games (of course) and brew beer.
 
 ### Do not hesitate to get in contact with me!
 ////CONTACTDETAILS GOES HERE
