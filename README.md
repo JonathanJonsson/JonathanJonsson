@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;* Basics and intermidiate
 * Algorithms and datastructures
 * Mobile development
+* Asynchronous programming
 
 ### I'm currently studying 📘:
 * Network programming
