@@ -12,6 +12,7 @@
 
 ### I'm currently studying 📘:
 * Network programming
+* Unreal with blueprints
 
 ### I'm going to study 🕐:
 * C++ with UnrealEngine
