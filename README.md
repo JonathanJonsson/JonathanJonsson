@@ -12,7 +12,7 @@
 
 ### I'm currently studying 📘:
 * Network programming
-* Unrealengine with blueprints
+* UnrealEngine with blueprints
 
 ### I'm going to study 🕐:
 * C++ with UnrealEngine
