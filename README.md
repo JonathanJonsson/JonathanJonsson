@@ -9,9 +9,10 @@
 * Algorithms and datastructures
 * Mobile development
 * Asynchronous programming
+* Network programming
 
 ### I'm currently studying 📘:
-* Network programming
+
 * UnrealEngine with blueprints
 
 ### I'm going to study 🕐:
