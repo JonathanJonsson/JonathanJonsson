@@ -19,7 +19,7 @@
 * C++ with UnrealEngine
 
 ### Relevant work experience
-I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 15 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
+I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 12 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
 
 ### Fun fact about me ⚡:
 * In my spare time I am with my family, play games (of course) and brew beer.
