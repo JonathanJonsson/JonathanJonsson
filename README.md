@@ -1,6 +1,6 @@
 ## Hi there!
 
-### My name is Jonathan and I am a Game Programming student (2022) at Forsbergs.
+### My name is Jonathan and I am a Game Programming student (2021) at Forsbergs.
 ### It would be really cool if you checked out my portfolio//LINKHERE//!
 
 ### I've studied ✅:
