@@ -14,10 +14,8 @@
 ### I'm currently studying 📘:
 
 * UnrealEngine with blueprints
-
-### I'm going to study 🕐:
 * C++ with UnrealEngine
-
+ 
 ### Relevant work experience
 I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 12 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
 
