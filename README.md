@@ -10,21 +10,21 @@
 * Mobile development
 * Asynchronous programming
 * Network programming
+* UnrealEngine with blueprints
 
 ### I'm currently studying 📘:
-
-* UnrealEngine with blueprints
 * C++ with UnrealEngine
  
 ### Relevant work experience
 I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 12 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
 
 ### Fun fact about me ⚡:
-* In my spare time I am with my family, play games (of course) and brew beer.
+* In my spare time I enjoy time with my family, playing golf and brewing beer. Oh, and play games of course!
 
 ### Do not hesitate to get in contact with me!
-////CONTACTDETAILS GOES HERE
-
+[Portfolio](https://jonathanjonsson.github.io)  
+[LinkedIn](https://www.linkedin.com/in/jonathan-jonsson-50346a44)  
+[Mail](mailto:jonsson.h.jonathan@gmail.com)
 <!--
 **JonathanJonsson/JonathanJonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
