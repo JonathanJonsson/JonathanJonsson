@@ -10,11 +10,11 @@
 * Mobile development
 * Asynchronous programming
 * Network programming
-* UnrealEngine with blueprints
+* Blueprints in Unreal 5
 
 ### I'm currently studying 📘:
-* C++ with UnrealEngine
-* Shaders in UnrealEngine
+* C++ with Unreal 5
+* Shaders in Unreal 5
  
 ### Relevant work experience
 I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 12 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
