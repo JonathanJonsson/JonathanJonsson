@@ -16,6 +16,7 @@
 
 ### I'm currently studying 📘:
 * C++ with Unreal 5
+* C++ - General
 
 
  
