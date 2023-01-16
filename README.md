@@ -13,7 +13,7 @@
 * Blueprints in Unreal 5
 * Shaders in Unreal 5
 * Replication in Unreal 5
-* * C++ with Unreal 5
+* C++ with Unreal 5
 * C++ - General
 
  
