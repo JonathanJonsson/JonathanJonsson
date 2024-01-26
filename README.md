@@ -19,7 +19,7 @@
  
 ### Relevant work experience
 I have a masters degree in chemical engineering, enabling me to work as project manager, handling teams of between 3 - 12 people. I have also worked with coaching senior positions into implementing LEAN and Agile ways of working.
-Currently I'm finishing up my internship at DICE and am looking for employment.
+Currently I'm working as a software engineer at DICE within the gameplay team.
 
 ### Fun fact about me ⚡:
 * In my spare time I enjoy time with my family, playing golf and brewing beer. Oh, and play games of course!
