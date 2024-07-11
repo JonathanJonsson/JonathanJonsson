@@ -3,7 +3,7 @@
 ### My name is Jonathan and I am a Software Engineer at DICE.
 ### It would be really cool if you checked out my [portfolio](https://jonathanjonsson.github.io)!
 
-### Through work I've been learning:
+### Through work I've been learning 🏢:
 * C++
 * C#
 * XML
