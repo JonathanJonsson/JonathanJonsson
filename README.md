@@ -1,8 +1,16 @@
 ## Hi there!
 
-### My name is Jonathan and I am a Game Programming student (2021) at Forsbergs.
+### My name is Jonathan and I am a Software Engineer at DICE.
 ### It would be really cool if you checked out my [portfolio](https://jonathanjonsson.github.io)!
 
+### Through work I've been learning:
+* C++
+* C#
+* XML
+* Perforce
+* JAAS, SWARM, MIRO etc.
+* Various in-house- and build farm related tools
+  
 ### I've studied ✅:
 * C# with Unity  
 &nbsp;&nbsp;&nbsp;&nbsp;* Basics and intermidiate
